@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaunaWu/HelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaunaWu/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/ShaunaWu/HelloWorld#readme",
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-vue": "^2.0.2",
+    "eslint-plugin-vue": "^4.3.0",
+    "jtaro-bundle": "^0.3.0",
+    "jtaro-module": "^0.2.8"
+  }
+}
